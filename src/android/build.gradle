@@ -7,5 +7,5 @@ allprojects {
 }
 
 dependencies {
-	compile 'com.github.ADERdev:scanlibrary:master-SNAPSHOT'
+	compile 'com.github.ADERdev:scanlibrary2:master-SNAPSHOT'
 }
